@@ -1,9 +1,13 @@
 ### ZimonIsHim
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?size=30&center=true&vCenter=true&lines=ZimonIsHim;Welcome+to+my+profile)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?size=30&vCenter=true&lines=ZimonIsHim;Welcome+to+my+profile)](https://git.io/typing-svg)
+
+![GitHub followers](https://img.shields.io/github/followers/zimonishim?style=for-the-badge)
+![Discord](https://img.shields.io/discord/840543834769195039?style=for-the-badge)
+
+<br />
 
 ![Visitors](https://komarev.com/ghpvc/?username=zimonishim&style=flat-square)
-![GitHub followers](https://img.shields.io/github/followers/zimonishim?style=for-the-badge)
 
 <br />
 
