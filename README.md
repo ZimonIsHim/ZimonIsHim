@@ -1,6 +1,10 @@
-### ZimonIsHim
-
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?size=30&vCenter=true&lines=ZimonIsHim;Welcome+to+my+profile)](https://git.io/typing-svg)
+
+<p align="center">
+  <samp>
+  Optimisation before innovation.
+  </samp>
+</p>
 
 ![GitHub followers](https://img.shields.io/github/followers/zimonishim?style=for-the-badge)
 ![Discord](https://img.shields.io/discord/840543834769195039?style=for-the-badge)
