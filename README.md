@@ -32,6 +32,7 @@
 <br />
 <br />
 
+<img align="left" img height="0" width="0" src="https://unpkg.com/simple-icons@v5/icons/adobecreativecloud.svg" />
 <img align="left" img height="32" width="32" src="https://unpkg.com/simple-icons@v5/icons/adobecreativecloud.svg" />
 <img align="left" img height="32" width="32" src="https://unpkg.com/simple-icons@v5/icons/audacity.svg" />
 <img align="left" img height="32" width="32" src="https://unpkg.com/simple-icons@v5/icons/github.svg" />
