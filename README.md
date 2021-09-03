@@ -22,30 +22,43 @@
 [<img height="32" width="32" src="https://unpkg.com/simple-icons@v5/icons/github.svg" />][GitHub]
 
 
-### Programming Languages and Tools:
+### Programming Languages:
 <img align="left" width="32px" src=https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/java/java.png />
-<img align="left" img height="32" width="32" src="https://unpkg.com/simple-icons@v5/icons/json.svg" />
-<img align="left" img height="32" width="32" src="https://unpkg.com/simple-icons@v5/icons/junit5.svg" />
-<img align="left" img height="32" width="32" src="https://unpkg.com/simple-icons@v5/icons/midi.svg" />
+<img align="left" img height="32" width="32" src="https://unpkg.com/simple-icons@v5/icons/csharp.svg" />
   
 <br />
 <br />
 <br />
 
+### Systems, APIs & Frameworks:
+<img align="left" img height="32" width="32" src="https://unpkg.com/simple-icons@v5/icons/json.svg" />
+<img align="left" img height="32" width="32" src="https://unpkg.com/simple-icons@v5/icons/junit5.svg" />
+<img align="left" img height="32" width="32" src="https://unpkg.com/simple-icons@v5/icons/mariadb.svg" />
+<img align="left" img height="32" width="32" src="https://unpkg.com/simple-icons@v5/icons/midi.svg" />
+
+<br />
+<br />
+<br />
+
+### Software (IDEs & Game engines):
+<img align="left" img height="32" width="32" src="https://unpkg.com/simple-icons@v5/icons/intellijidea.svg" />
+<img align="left" img height="32" width="32" src="https://unpkg.com/simple-icons@v5/icons/unity.svg" />
+<img align="left" img height="32" width="32" src="https://unpkg.com/simple-icons@v5/icons/visualstudio.svg" />
+
+<br />
+<br />
+<br />
+
+### Other Software:
 <img align="left" img height="0" width="0" src="https://unpkg.com/simple-icons@v5/icons/adobecreativecloud.svg" />
 <img align="left" img height="32" width="32" src="https://unpkg.com/simple-icons@v5/icons/adobecreativecloud.svg" />
+<img align="left" img height="32" width="32" src="https://unpkg.com/simple-icons@v5/icons/adobepremierepro.svg" />
 <img align="left" img height="32" width="32" src="https://unpkg.com/simple-icons@v5/icons/audacity.svg" />
 <img align="left" img height="32" width="32" src="https://unpkg.com/simple-icons@v5/icons/github.svg" />
 <img align="left" img height="32" width="32" src="https://unpkg.com/simple-icons@v5/icons/gitkraken.svg" />
-<img align="left" img height="32" width="32" src="https://unpkg.com/simple-icons@v5/icons/grammarly.svg" />
-<img align="left" img height="32" width="32" src="https://unpkg.com/simple-icons@v5/icons/lmms.svg" />
-<img align="left" img height="32" width="32" src="https://unpkg.com/simple-icons@v5/icons/notepadplusplus.svg" />
 <img align="left" img height="32" width="32" src="https://unpkg.com/simple-icons@v5/icons/obsstudio.svg" />
-<img align="left" img height="32" width="32" src="https://unpkg.com/simple-icons@v5/icons/torproject.svg" />
-<img align="left" img height="32" width="32" src="https://unpkg.com/simple-icons@v5/icons/unity.svg" />
 <img align="left" img height="32" width="32" src="https://unpkg.com/simple-icons@v5/icons/virtualbox.svg" />
-<img align="left" img height="32" width="32" src="https://unpkg.com/simple-icons@v5/icons/vlcmediaplayer.svg" />
-<img align="left" img height="32" width="32" src="https://unpkg.com/simple-icons@v5/icons/wikipedia.svg" />
+<img align="left" img height="32" width="32" src="https://unpkg.com/simple-icons@v5/icons/xampp.svg" />
 
 <br />
 <br />
